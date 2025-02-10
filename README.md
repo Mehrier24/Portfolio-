@@ -34,6 +34,8 @@ Aspiring cybersecurity professional with a strong academic foundation and hands-
     <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-0040FF?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
     <a href="https://cirt.net/nikto"><img src="https://img.shields.io/badge/-Nikto-FF5733?&style=for-the-badge&logo=Nikto&logoColor=white" /></a>
     <a href="https://www.maltego.com/"><img src="https://img.shields.io/badge/-Maltego-222222?&style=for-the-badge&logo=Maltego&logoColor=white" /></a>
+    <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/-Nessus-222222?&style=for-the-badge&logo=nessus&logoColor=white" /></a>
+
 </div>  
 
 ### SIEM & Log Analysis  
