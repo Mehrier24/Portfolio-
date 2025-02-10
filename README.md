@@ -17,7 +17,7 @@ Aspiring cybersecurity professional with a strong academic foundation and hands-
 | Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
 | Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
 | Case Management with TheHive                  | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
+| GRC                                           | [Controls and Complance Checklist ](https://github.com/Mehrier24/Security-Audit) |
 
 ## Tools  
 
