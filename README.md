@@ -1,4 +1,4 @@
-# Hello, I'm Mehrier Bin Touhid  
+# Hello, I'm Mehrier B.Touhid  
 <a href="https://www.linkedin.com/in/mehrier-bin-touhid-a20822337/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 📧 mtouhid1s@semo.edu | 📍 Cape Girardeau, Missouri  
 
