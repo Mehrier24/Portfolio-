@@ -16,7 +16,7 @@ I have practical, hands-on experience in cybersecurity and strong communication 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Incident Response      | [LetsDefendLAB]https://github.com/Mehrier24/Investigating-a-Siem-Alert-.git) |
+| SIEM Implementation and Incident Response      | [LetsDefendLAB](https://github.com/Mehrier24/Investigating-a-Siem-Alert-.git) |
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/your-profile/detection-lab) |
 | Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
 | Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
