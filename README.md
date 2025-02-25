@@ -2,9 +2,13 @@
 <a href="https://www.linkedin.com/in/mehrier-bin-touhid-a20822337/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 📧 mtouhid1s@semo.edu | 📍 Cape Girardeau, Missouri  
 
-## Objective  
-Aspiring cybersecurity professional with a strong academic foundation and hands-on experience in cybersecurity tools and methodologies. Passionate about protecting digital assets, preventing cyber threats, and eager to join a Security Operations Center (SOC) as a Tier 1 Analyst.  
+## AboutME 
+I am a senior at Southeast Missouri State University, majoring in Cybersecurity. I came to the United States as an international student and am currently preparing for my CompTIA Security+ certification. Additionally, I am gaining hands-on experience through my cybersecurity internship with Wilses Cybersecurity Solutions.
 
+Beyond academics and work, I am actively involved in various clubs and organizations on campus. In my free time, I enjoy swimming.
+
+## Objective  
+I have practical, hands-on experience in cybersecurity and strong communication skills. I hold CPT work authorization and am willing to relocate. I am eager to apply my skills to your company and continue growing professionally in a dynamic environment.
 ## Resume  
 📄 [Download My Resume](LINK_TO_YOUR_RESUME)  
 
@@ -12,12 +16,12 @@ Aspiring cybersecurity professional with a strong academic foundation and hands-
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/your-profile/detection-lab) |
+| SIEM Implementation and Incident Response      | [Detection Lab](https://github.com/your-profile/detection-lab) |
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/your-profile/detection-lab) |
 | Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
 | Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
 | Case Management with TheHive                  | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
-| GRC                                           | [Controls and Complance Checklist ](https://github.com/Mehrier24/Security-Audit) |
+| Governance Risk & Compliance                                        | [Controls and Complance Checklist ](https://github.com/Mehrier24/Security-Audit) |
 
 ## Tools  
 
@@ -40,7 +44,7 @@ Aspiring cybersecurity professional with a strong academic foundation and hands-
 
 ### SIEM & Log Analysis  
 <div>
-    <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    
     <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>  
