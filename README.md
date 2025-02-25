@@ -18,7 +18,7 @@ I have practical, hands-on experience in cybersecurity and strong communication 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Incident Response      | [LetsDefendLAB](https://github.com/Mehrier24/Investigating-a-Siem-Alert-.git) |
 | Malware Analysis | [EMail Header and Malware Analysis ](https://github.com/Mehrier24/Email-Malware-Analysis-.git) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
+| Secure Coding with AI        | [Fox V1.0 ](https://github.com/Mehrier24/Fox-V1.0-.git) |
 | Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
 | Threat Analysis            | [Threat Analysis using  MitreAtt&ck](https://github.com/Mehrier24/MITRE-ATT-CK-Threat-Analysis-.git) |
 | Governance Risk & Compliance                                        | [Controls and Complance Checklist ](https://github.com/Mehrier24/Security-Audit) |
