@@ -19,7 +19,7 @@ I have practical, hands-on experience in cybersecurity and strong communication 
 | SIEM Implementation and Incident Response      | [LetsDefendLAB](https://github.com/Mehrier24/Investigating-a-Siem-Alert-.git) |
 | Malware Analysis | [EMail Header and Malware Analysis ](https://github.com/Mehrier24/Email-Malware-Analysis-.git) |
 | Secure Coding with AI        | [Fox V1.0 ](https://github.com/Mehrier24/Fox-V1.0-.git) |
-| Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/your-profile/soc-automation-lab) |
+| Vulnerabilty Assesment      | [Webscan Using Nessus ](https://github.com/Mehrier24/WEBSCAN-.git) |
 | Threat Analysis            | [Threat Analysis using  MitreAtt&ck](https://github.com/Mehrier24/MITRE-ATT-CK-Threat-Analysis-.git) |
 | Governance Risk & Compliance                                        | [Controls and Complance Checklist ](https://github.com/Mehrier24/Security-Audit) |
 
@@ -47,6 +47,7 @@ I have practical, hands-on experience in cybersecurity and strong communication 
     
     <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
+
 </div>  
 
 ## Certifications  
@@ -59,6 +60,6 @@ I have practical, hands-on experience in cybersecurity and strong communication 
 
 ## Projects  
 
-- [Detection Lab](https://github.com/your-profile/detection-lab) - A cybersecurity-focused project for analyzing network traffic and detecting threats.  
-- [SOC Automation Project](https://github.com/your-profile/soc-automation-lab) - Security automation using SOAR tools like Shuffle, TheHive, and Splunk.  
-- [Library Fox](https://github.com/your-profile/library-fox) - A secure library management system with MFA and compliance with NIST guidelines.  
+- [LetsDefendLab](https://github.com/Mehrier24/Investigating-a-Siem-Alert-.git) - Suspicios file download attempt Lab from Lets defend that requires SIEM Tools to investigate .   
+- [MalwareAnalysis](https://github.com/Mehrier24/Email-Malware-Analysis-.git) -Real world project from my Internship analysing a malware from a phising attempt 
+- [Fox V1.0 ](https://github.com/Mehrier24/Fox-V1.0-.git) - A Secure library management software for buit using AI prompt
