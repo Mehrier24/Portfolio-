@@ -44,4 +44,4 @@ Tools
 📂 Projects
 - [LetsDefendLab](https://github.com/Mehrier24/Investigating-a-Siem-Alert-.git) - Suspicios file download attempt Lab from Lets defend that requires SIEM Tools to investigate .   
 - [MalwareAnalysis](https://github.com/Mehrier24/Email-Malware-Analysis-.git) -Real world project from my Internship analysing a malware from a phising attempt 
-- [Fox V1.0 ](https://github.com/Mehrier24/Fox-V1.0-.git) - A Secure library management software for buit using AI prompt
+- [Fox V1.0 ](https://github.com/Mehrier24/Fox-V1.0-.git) - An Open Source Library Management Software built using AI 
