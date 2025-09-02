@@ -8,7 +8,7 @@ I am a senior at Southeast Missouri State University, majoring in Cybersecurity.
 Beyond academics and work, I am actively involved in various clubs and organizations on campus. In my free time, I enjoy swimming.
 
 ## Objective  
-I have practical, hands-on experience in cybersecurity and strong communication skills. I also hold OPT work authorization and am willing to relocate. I am eager to apply my skills to your company and continue growing professionally in a dynamic environment.
+I bring practical, hands-on experience in cybersecurity along with strong communication skills. I also hold OPT work authorization and am open to relocation. I am eager to contribute my skills to your organization while continuing to grow professionally in a challenging and dynamic environment.
 ## Resume  
 📄 [Download My Resume](LINK_TO_YOUR_RESUME)  
 
