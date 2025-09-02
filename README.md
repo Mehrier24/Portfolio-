@@ -3,12 +3,12 @@
 📧 mtouhid1s@semo.edu | 📍 Cape Girardeau, Missouri  
 
 ## AboutME 
-I am a senior at Southeast Missouri State University, majoring in Cybersecurity. I came to the United States as an international student and am currently preparing for my CompTIA Security+ certification. Additionally, I am gaining hands-on experience through my cybersecurity internship with Wilses Cybersecurity Solutions.
+I am a senior at Southeast Missouri State University, majoring in Cybersecurity. As an international student, I have embraced opportunities to grow both academically and professionally. I am currently preparing for the CompTIA Security+ certification and have gained hands-on experience with industry-standard cybersecurity tools during my internship at Wilses Cybersecurity Solutions. Beyond academics, I am continuously expanding my skills by building my own home SOC lab, where I actively simulate attacks, test for vulnerabilities, and strengthen defense mechanisms. I also stay engaged with the cybersecurity community through platforms such as LetsDefend and Hack The Box.
 
 Beyond academics and work, I am actively involved in various clubs and organizations on campus. In my free time, I enjoy swimming.
 
 ## Objective  
-I have practical, hands-on experience in cybersecurity and strong communication skills. I hold CPT work authorization and am willing to relocate. I am eager to apply my skills to your company and continue growing professionally in a dynamic environment.
+I have practical, hands-on experience in cybersecurity and strong communication skills. I also hold OPT work authorization and am willing to relocate. I am eager to apply my skills to your company and continue growing professionally in a dynamic environment.
 ## Resume  
 📄 [Download My Resume](LINK_TO_YOUR_RESUME)  
 
