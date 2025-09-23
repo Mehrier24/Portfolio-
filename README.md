@@ -61,11 +61,6 @@ Threat Intelligence & Forensics
 <a href="https://www.cyberchef.io/"><img src="https://img.shields.io/badge/-CyberChef-0066CC?&style=for-the-badge&logo=CyberChef&logoColor=white" /></a>
 </div>
 
-Excellent additions! Completing hands-on training from platforms like LetsDefend is a great way to show practical skill development.
-
-I have updated the "Certifications & Training" section of your portfolio README to include these new accomplishments. I also clarified the CCNA badge to "Intro to Networks" to be more specific, as you requested.
-
-Here is the updated section for you to copy and paste:
 
 Certifications & Training
 In Progress
