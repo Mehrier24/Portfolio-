@@ -4,7 +4,7 @@
 
 ## About Me
 
-A highly motivated and hands-on Cybersecurity major at Southeast Missouri State University with a proven ability to apply academic knowledge to real-world security challenges. My experience is highlighted by a professional internship at Wilses Cybersecurity Solutions and the design and maintenance of a personal Security Operations Center (SOC) lab. In my home lab, I actively simulate real-world attacks, analyze vulnerabilities, and implement defensive countermeasures to sharpen my incident response skills.
+A highly motivated Cybersecurity student Southeast Missouri State University with a proven ability to apply academic knowledge to real-world security challenges. My experience is highlighted by a professional internship at Wilses Cybersecurity Solutions and the design and maintenance of a personal Security Operations Center (SOC) lab. In my home lab, I actively simulate real-world attacks, analyze vulnerabilities, and implement defensive countermeasures to sharpen my incident response skills.
 
 Complementing my technical abilities, I have over four years of experience in client-facing roles at the Campus Admissions Helpdesk and Library Circulation Desk. In these positions, I honed my communication and problem-solving skills by providing direct customer support, guiding users through database navigation, and troubleshooting technical issues like Wi-Fi connectivity. This background makes me a well-rounded candidate prepared for the collaborative and user-focused nature of IT Help Desk and cybersecurity roles.
 
@@ -20,6 +20,7 @@ Seeking an entry-level cybersecurity role where I can apply my practical experie
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Operating an IT Help Desk     | [Active Directory Security & Administration](https://github.com/Mehrier24/Active-Directory-Administration-Security-.git) |
 | SIEM Implementation and Incident Response      | [Investigating a SIEM Alert](https://github.com/Mehrier24/Investigating-a-Siem-Alert-.git) |
 | Malware Analysis & Triage | [EMail Header and Malware Analysis ](https://github.com/Mehrier24/Email-Malware-Analysis-.git) |
 |  Cloud Security (AWS)  | [AWS Web Application Secruity  ](https://github.com/Mehrier24/AWS-Security-.git) |
