@@ -14,7 +14,7 @@ Beyond academics and work, I am actively involved in various clubs and organizat
 ## Objective  
 Seeking an entry-level cybersecurity role where I can apply my practical experience in SIEM, vulnerability management, and network security to protect critical infrastructure and contribute to a forward-thinking security team. I possess full OPT work authorization and am open to relocation for the right opportunity.
 ## Resume  
-📄 [Download My Resume](LINK_TO_YOUR_RESUME)  
+📄 [Download My Resume](https://docs.google.com/document/d/1xIJiNnI926KzIvJpA_AUU3cvoODnsgrT/edit?usp=sharing&ouid=112994692168003023622&rtpof=true&sd=true)  
 
 ## Skills  
 
